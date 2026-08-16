@@ -10,7 +10,7 @@ This project has two parts:
 - Features: Soil, NPK, pH,
   Rainfall, Temperature
 
-## Part 1 - Fertilizer Usage Prediction
+## Notebook 1 - Fertilizer Usage Prediction
 Regression problem to predict
 how much fertilizer is needed
 
